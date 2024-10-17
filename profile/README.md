@@ -2,6 +2,16 @@
 
 Teja combines AI with journaling to enhance your mental wellness journey. Secure, private, and personalized.
 
+
+  
+<a href="https://github.com/teja-app/teja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teja-app&repo=teja" />
+</a>
+<a href="https://github.com/teja-app/teja-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teja-app&repo=teja-website" />
+</a>
+
+
 ## Key Features 🚀
 
 - AI-Enhanced Journaling
@@ -29,11 +39,3 @@ Teja combines AI with journaling to enhance your mental wellness journey. Secure
 - [Support](https://teja.app/support)
 - [Terms & Conditions](https://teja.app/terms)
 - [Privacy Policy](https://teja.app/privacy)
-
-  
-<a href="https://github.com/teja-app/teja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teja-app&repo=teja" />
-</a>
-<a href="https://github.com/teja-app/teja-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teja-app&repo=teja-website" />
-</a>
