@@ -1,4 +1,8 @@
-# Jate
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jate-app/.github/main/profile/logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jate-app/.github/main/profile/logo.svg">
+  <img alt="Jate" src="https://raw.githubusercontent.com/jate-app/.github/main/profile/logo.svg" height="80">
+</picture>
 
 **AI-native practice management for mental health professionals.**
 
