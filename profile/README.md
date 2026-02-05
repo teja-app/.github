@@ -1,4 +1,4 @@
-![Jate](https://raw.githubusercontent.com/jate-app/.github/main/profile/banner.png)
+![Teja](https://raw.githubusercontent.com/teja-app/.github/main/profile/banner.png)
 
 **AI-native practice management for mental health professionals.**
 
@@ -6,7 +6,7 @@
 
 We believe therapists should spend their time on what matters most: their clients. Not paperwork.
 
-Jate eliminates the administrative burden that steals hours from mental health professionals every week—so they can focus on delivering life-changing care.
+Teja eliminates the administrative burden that steals hours from mental health professionals every week—so they can focus on delivering life-changing care.
 
 ### What We Build
 
