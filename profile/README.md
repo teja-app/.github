@@ -1,4 +1,4 @@
-![Teja](https://raw.githubusercontent.com/teja-app/.github/main/profile/banner.png)
+![Readya](https://raw.githubusercontent.com/teja-app/.github/main/profile/banner.png)
 
 **AI-native practice management for mental health professionals.**
 
@@ -6,7 +6,7 @@
 
 We believe therapists should spend their time on what matters most: their clients. Not paperwork.
 
-Teja eliminates the administrative burden that steals hours from mental health professionals every week—so they can focus on delivering life-changing care.
+Readya eliminates the administrative burden that steals hours from mental health professionals every week—so they can focus on delivering life-changing care.
 
 ### What We Build
 
@@ -22,4 +22,4 @@ Teja eliminates the administrative burden that steals hours from mental health p
 
 ---
 
-<sub>San Francisco, CA</sub>
+<sub>[readya.io](https://readya.io) · San Francisco, CA</sub>
