@@ -1,4 +1,4 @@
-![Readya](https://raw.githubusercontent.com/teja-app/.github/main/profile/banner.png)
+![Readya](https://raw.githubusercontent.com/readya-io/.github/main/profile/banner.png)
 
 **AI-native practice management for mental health professionals.**
 
